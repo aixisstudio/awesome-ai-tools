@@ -1,0 +1,29 @@
+# awesome-ai-tools
+> A curated list of the best AI tools — chatbots, image, code, audio, agents
+Maintained by aixisstudio. Related: Snitch (open-source app firewall). https://github.com/aixisstudio/awesome-ai-tools
+
+## 💬 Chat & General
+| Tool | What it does |
+|---|---|
+| [ChatGPT](https://chat.openai.com/) | The reference chatbot — GPT-4o, voice, vision |
+| [Claude](https://claude.ai/) | Long-context reasoning, artifacts, projects |
+| [Gemini](https://gemini.google.com/) | Google's multimodal assistant |
+| [Mistral Le Chat](https://chat.mistral.ai/) | Fast European open-weights assistant |
+| [Perplexity](https://www.perplexity.ai/) | Answer engine with live citations |
+
+## 🖼️ Image
+| Tool | What it does |
+|---|---|
+| [Midjourney](https://midjourney.com/) | Best-in-class aesthetic generation |
+| [Flux](https://blackforestlabs.ai/) | Open-weights image models (Black Forest Labs) |
+| [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | The open-weights classic |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based image pipelines |
+| [Leonardo.ai](https://leonardo.ai/) | Production-grade asset generation |
+| [Ideogram](https://ideogram.ai/) | Best text-in-image rendering |
+
+## 💻 Code
+| Tool | What it does |
+|---|---|
+| [Cursor](https://cursor.com/) | AI-first code editor |
+| [GitHub Copilot](https://github.com/features/copilot) | The original pair programmer |
+| [Winds

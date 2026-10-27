@@ -60,6 +60,43 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 
 > Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch).
 
+## 🧑‍💻 Dev-facing AI (extras)
+
+| Tool | What |
+|---|---|
+| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Natural-language computer control |
+| [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Prompt → whole codebase |
+| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent that fixes real GitHub issues |
+| [Devin clones](https://github.com/stitionai/devika) | Open-source SWE agents (Devika, OpenDevin) |
+
+## 🎙️ Audio/Voice (extras)
+
+| Tool | What |
+|---|---|
+| [ElevenLabs](https://elevenlabs.io/) | Best-in-class TTS/voice clone |
+| [Whisper](https://github.com/openai/whisper) | OpenAI's transcription model |
+| [Suno](https://suno.com/) | Full songs from a prompt |
+| [Stable Audio](https://stability.ai/) | Sound effects/music gen |
+
+## 🔬 Research & Knowledge (extras)
+
+| Tool | What |
+|---|---|
+| [Elicit](https://elicit.com/) | Literature-review automation |
+| [SciSpace](https://scispace.com/) | Chat with papers |
+| [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered academic search |
+| [Explainpaper](https://www.explainpaper.com/) | Highlights → explanations |
+
+## 🏗️ Infrastructure for AI products
+
+| Tool | What |
+|---|---|
+| [LangChain](https://github.com/langchain-ai/langchain) | LLM app framework |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | Data framework for RAG |
+| [LiteLLM](https://github.com/BerriAI/litellm) | One API → all providers |
+| [vLLM](https://github.com/vllm-project/vllm) | High-throughput inference |
+| [Ollama](https://ollama.com/) | Local model runner |
+
 ---
 Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall.
 

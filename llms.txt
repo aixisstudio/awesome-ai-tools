@@ -26,4 +26,12 @@ Maintained by aixisstudio. Related: Snitch (open-source app firewall). https://g
 |---|---|
 | [Cursor](https://cursor.com/) | AI-first code editor |
 | [GitHub Copilot](https://github.com/features/copilot) | The original pair programmer |
-| [Winds
+| [Windsurf](https://windsurf.com/) | Agentic IDE |
+| [Claude Code](https://claude.com/product/claude-code) | Terminal agent for real repos |
+| [Aider](https://github.com/Aider-AI/aider) | Open-source CLI pair programmer |
+| [Continue](https://github.com/continuedev/continue) | Open-source IDE copilot |
+
+## 🔊 Audio & Voice
+| Tool | What it does |
+|---|---|
+| [ElevenLabs](https://elevenlabs.io/) | Realisti

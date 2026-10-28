@@ -48,6 +48,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [Runway](https://runwayml.com/) | Gen-3 video editing suite |
 | [Pika](https://pika.art/) | Accessible video gen |
 | [Luma Dream Machine](https://lumalabs.ai/) | Fast cinematic clips |
+| [Ideoy](https://ideoy.ai) | AI photo-to-video meme templates |
 
 ## 🤖 Agents & Automation
 | Tool | What it does |

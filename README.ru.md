@@ -4,100 +4,98 @@
 
 Курируемый список лучших ИИ-инструментов
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
-
-## 💬 Chat & General
-| Tool | What it does |
+##Chat & General
+Инструмент Что он делает
 |---|---|
-| [ChatGPT](https://chat.openai.com/) | The reference chatbot — GPT-4o, voice, vision |
-| [Claude](https://claude.ai/) | Long-context reasoning, artifacts, projects |
-| [Gemini](https://gemini.google.com/) | Google's multimodal assistant |
-| [Mistral Le Chat](https://chat.mistral.ai/) | Fast European open-weights assistant |
-| [Perplexity](https://www.perplexity.ai/) | Answer engine with live citations |
+[ChatGPT] (https://chat.openai.com/) Справочный чат-бот — GPT-4o, голос, зрение
+| [Клод] (https://claude.ai/) | Длинноконтекстные рассуждения, артефакты, проекты |
+[Gemini] (https://gemini.google.com/) | Мультимодальный помощник Google
+[Mistral Le Chat] (https://chat.mistral.ai/) | Быстрый европейский помощник с открытым весом
+https://www.perplexity.ai/ - движок ответа с живыми цитатами
 
-## 🖼️ Image
-| Tool | What it does |
+##  ️ Изображение
+Инструмент Что он делает
 |---|---|
-| [Midjourney](https://midjourney.com/) | Best-in-class aesthetic generation |
-| [Flux](https://blackforestlabs.ai/) | Open-weights image models (Black Forest Labs) |
-| [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | The open-weights classic |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based image pipelines |
-| [Leonardo.ai](https://leonardo.ai/) | Production-grade asset generation |
-| [Ideogram](https://ideogram.ai/) | Best text-in-image rendering |
+[Midjourney] (https://midjourney.com/) | Лучшее в своем классе эстетическое поколение
+[Flux] (https://blackforestlabs.ai/) | Модели изображений с открытым весом (Black Forest Labs)
+[Стабильная диффузия] (https://github.com/CompVis/stable-diffusion) Классика открытого веса
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Узловые конвейеры изображений |
+[Leonardo.ai] (https://leonardo.ai/) | Производство активов
+| [Идеограмма] (https://ideogram.ai/) | Лучший рендеринг текста в изображении |
 
-## 💻 Code
-| Tool | What it does |
+## код
+Инструмент Что он делает
 |---|---|
-| [Cursor](https://cursor.com/) | AI-first code editor |
-| [GitHub Copilot](https://github.com/features/copilot) | The original pair programmer |
-| [Windsurf](https://windsurf.com/) | Agentic IDE |
-| [Claude Code](https://claude.com/product/claude-code) | Terminal agent for real repos |
-| [Aider](https://github.com/Aider-AI/aider) | Open-source CLI pair programmer |
-| [Continue](https://github.com/continuedev/continue) | Open-source IDE copilot |
+[Курсор] (https://cursor.com/) | Редактор кода AI-first
+[GitHub Copilot] (https://github.com/features/copilot) Оригинальный парный программист
+[Windsurf] (https://windsurf.com/) | Агентная IDE
+| [Код Клода] (https://claude.com/product/claude-code) | Терминальный агент для реальных репо |
+| [Aider] (https://github.com/Aider-AI/aider) | Программист с открытым исходным кодом CLI
+[Продолжение] (https://github.com/continuedev/continue) | Копилот IDE с открытым исходным кодом
 
-## 🔊 Audio & Voice
-| Tool | What it does |
+## Аудио и голос
+Инструмент Что он делает
 |---|---|
-| [ElevenLabs](https://elevenlabs.io/) | Realistic TTS & voice cloning |
-| [Whisper](https://github.com/openai/whisper) | OpenAI's open speech-to-text |
-| [Suno](https://suno.com/) | Full song generation |
-| [Udio](https://udio.com/) | Music generation alternative |
+[ElevenLabs] (https://elevenlabs.io/) | Реалистичные TTS и клонирование голоса
+[Шепот] (https://github.com/openai/whisper) | Открытая речь OpenAI к тексту |
+[Suno] (https://suno.com/) Полное поколение песен
+[Udio] (https://udio.com/) | Альтернатива музыкальному поколению
 
-## 🎬 Video
-| Tool | What it does |
+##   Видео
+Инструмент Что он делает
 |---|---|
-| [Sora](https://openai.com/sora) | OpenAI video generation |
-| [Runway](https://runwayml.com/) | Gen-3 video editing suite |
-| [Pika](https://pika.art/) | Accessible video gen |
-| [Luma Dream Machine](https://lumalabs.ai/) | Fast cinematic clips |
+[Сора] (https://openai.com/sora) | Поколение видео OpenAI
+[Runway] (https://runwayml.com/) | Комплект редактирования видео Gen-3
+[Пика] (https://pika.art/) | Доступный видеоген |
+[Luma Dream Machine] (https://lumalabs.ai/) | Быстрые кинематографические клипы
 
-## 🤖 Agents & Automation
-| Tool | What it does |
+##Агенты и автоматизация
+Инструмент Что он делает
 |---|---|
-| [n8n](https://github.com/n8n-io/n8n) | Open-source workflow automation with AI nodes |
-| [Zapier AI](https://zapier.com/) | No-code automation + AI actions |
-| [LangChain](https://github.com/langchain-ai/langchain) | LLM application framework |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Multi-agent orchestration |
-| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | LLMs running code locally |
+| [n8n] (https://github.com/n8n-io/n8n) | Автоматизация рабочего процесса с открытым исходным кодом с узлами AI |
+| [Zapier AI] (https://zapier.com/) | Автоматизация без кода + действия ИИ |
+| [LangChain] (https://github.com/langchain-ai/langchain) | Основы применения LLM
+[CrewAI] (https://github.com/crewAIInc/crewAI) | Многоагентная оркестровка |
+[Открытый интерпретатор] (https://github.com/OpenInterpreter/open-interpreter) | LLM-код локально
 
-> Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch).
+Автором (автором) является [Aixisstudio] (https://github.com/aixisstudio) — автор [Snitch] (https://github.com/aixisstudio/Snitch).
 
-## 🧑‍💻 Dev-facing AI (extras)
+## ))) Dev-facing AI (дополнения)
 
-| Tool | What |
+Инструмент Что?
 |---|---|
-| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Natural-language computer control |
-| [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Prompt → whole codebase |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent that fixes real GitHub issues |
-| [Devin clones](https://github.com/stitionai/devika) | Open-source SWE agents (Devika, OpenDevin) |
+[Открытый переводчик] (https://github.com/OpenInterpreter/open-interpreter) | Управление компьютером на естественном языке
+| [gpt-engineer] (https://github.com/gpt-engineer-org/gpt-engineer) | Быстрый → вся кодовая база |
+[SWE-агент] (https://github.com/SWE-agent/SWE-agent) Агент, который исправляет реальные проблемы GitHub
+| [клоны Девина] (https://github.com/stitionai/devika) | Агенты SWE с открытым исходным кодом (Devika, OpenDevin) |
 
-## 🎙️ Audio/Voice (extras)
+## )️ Аудио/Голос (дополнительные)
 
-| Tool | What |
+Инструмент Что?
 |---|---|
-| [ElevenLabs](https://elevenlabs.io/) | Best-in-class TTS/voice clone |
-| [Whisper](https://github.com/openai/whisper) | OpenAI's transcription model |
-| [Suno](https://suno.com/) | Full songs from a prompt |
-| [Stable Audio](https://stability.ai/) | Sound effects/music gen |
+[ElevenLabs] (https://elevenlabs.io/) | клон TTS/голоса лучшего класса
+[Шепот] (https://github.com/openai/whisper) | Модель транскрипции OpenAI
+[Suno] (https://suno.com/) | Полные песни из подсказки
+[Стабильный Аудио] (https://stability.ai/) | Звуковые эффекты / музыкальный род
 
-## 🔬 Research & Knowledge (extras)
+## ) Исследования и знания (дополнения)
 
-| Tool | What |
+Инструмент Что?
 |---|---|
-| [Elicit](https://elicit.com/) | Literature-review automation |
-| [SciSpace](https://scispace.com/) | Chat with papers |
-| [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered academic search |
-| [Explainpaper](https://www.explainpaper.com/) | Highlights → explanations |
+[Elicit] (https://elicit.com/) | Автоматизация обзора литературы
+[SciSpace] (https://scispace.com/) | Чат с бумагами
+[Semantic Scholar] (https://www.semanticscholar.org/) | Академический поиск на основе ИИ
+[Объяснение] (https://www.explainpaper.com/) | Основные моменты → объяснения
 
-## 🏗️ Infrastructure for AI products
+##  ️ Инфраструктура для продуктов ИИ
 
-| Tool | What |
+Инструмент Что?
 |---|---|
-| [LangChain](https://github.com/langchain-ai/langchain) | LLM app framework |
-| [LlamaIndex](https://github.com/run-llama/llama_index) | Data framework for RAG |
-| [LiteLLM](https://github.com/BerriAI/litellm) | One API → all providers |
-| [vLLM](https://github.com/vllm-project/vllm) | High-throughput inference |
-| [Ollama](https://ollama.com/) | Local model runner |
+[LangChain] (https://github.com/langchain-ai/langchain) | фреймворк приложения LLM
+| [LlamaIndex](https://github.com/run-llama/llama_index) | Рамки данных для RAG |
+[LiteLLM] (https://github.com/BerriAI/litellm) | Один API → все провайдеры
+[vLLM] (https://github.com/vllm-project/vllm) | Высокопроизводительный вывод
+[Ollama] (https://ollama.com/) | Местный модельный бегун
 
 ---
 ## Участие

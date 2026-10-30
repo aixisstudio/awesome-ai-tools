@@ -4,100 +4,98 @@
 
 厳選 AI ツールリスト — チャット、画像、コード、音声、エージェント
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
-
-## 💬 Chat & General
-| Tool | What it does |
+## チャット&一般
+| ツール | お問い合わせ |
 |---|---|
-| [ChatGPT](https://chat.openai.com/) | The reference chatbot — GPT-4o, voice, vision |
-| [Claude](https://claude.ai/) | Long-context reasoning, artifacts, projects |
-| [Gemini](https://gemini.google.com/) | Google's multimodal assistant |
-| [Mistral Le Chat](https://chat.mistral.ai/) | Fast European open-weights assistant |
-| [Perplexity](https://www.perplexity.ai/) | Answer engine with live citations |
+| 【ChatGPT】(https://chat.openai.com/) | リファレンスチャットボット — GPT-4o, 音声, ビジョン |
+| 【クラウド】(https://claude.ai/) | 長文推論・アーティファクト・プロジェクト |
+| 【Gemini】(https://gemini.google.com/) | Googleのマルチモーダルアシスタント |
+| 【Mistral Le Chat】(https://chat.mistral.ai/) | ファースト・ヨーロッパオープン級アシスタント |
+| 【汎用性】(https://www.perplexity.ai/) | ライブシテーションによる回答エンジン |
 
-## 🖼️ Image
-| Tool | What it does |
+## 中国の画像
+| ツール | お問い合わせ |
 |---|---|
-| [Midjourney](https://midjourney.com/) | Best-in-class aesthetic generation |
-| [Flux](https://blackforestlabs.ai/) | Open-weights image models (Black Forest Labs) |
-| [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | The open-weights classic |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based image pipelines |
-| [Leonardo.ai](https://leonardo.ai/) | Production-grade asset generation |
-| [Ideogram](https://ideogram.ai/) | Best text-in-image rendering |
+| 【Midjourney】(https://midjourney.com/) | ベスト・イン・クラスの美的世代 |
+| 【フラックス】(https://blackforestlabs.ai/) | 太りすぎ画像モデル(ブラックフォレストラボ) |
+| 【安定拡散】(https://github.com/CompVis/stable-diffusion) | オープン級古典 |
+| 【ComfyUI】(https://github.com/comfyanonymous/ComfyUI) | ノードベースの画像パイプライン |
+| 【レオナルドアイ】(https://leonardo.ai/) | 製造グレードのアセット生成 |
+| 【イラスト】(https://ideogram.ai/) | 最高のテキスト画像レンダリング |
 
-## 💻 Code
-| Tool | What it does |
+## . コード
+| ツール | お問い合わせ |
 |---|---|
-| [Cursor](https://cursor.com/) | AI-first code editor |
-| [GitHub Copilot](https://github.com/features/copilot) | The original pair programmer |
-| [Windsurf](https://windsurf.com/) | Agentic IDE |
-| [Claude Code](https://claude.com/product/claude-code) | Terminal agent for real repos |
-| [Aider](https://github.com/Aider-AI/aider) | Open-source CLI pair programmer |
-| [Continue](https://github.com/continuedev/continue) | Open-source IDE copilot |
+| 【講師】(https://cursor.com/) | AIファーストコードエディター |
+| 【GitHub Copilot】(https://github.com/features/copilot) | オリジナルペアプログラマー |
+| 【ウインドサーフィン】(https://windsurf.com/) | 業務用IDE |
+| 【クラウドコード】(https://claude.com/product/claude-code) | 取扱分野 |
+|【エイダー】(https://github.com/Aider-AI/aider) | オープンソースのCLIペアプログラマ |
+| [Continue](https://github.com/continuedev/continue) | オープンソースのIDEコパイロット |
 
-## 🔊 Audio & Voice
-| Tool | What it does |
+## 音声と音声
+| ツール | お問い合わせ |
 |---|---|
-| [ElevenLabs](https://elevenlabs.io/) | Realistic TTS & voice cloning |
-| [Whisper](https://github.com/openai/whisper) | OpenAI's open speech-to-text |
-| [Suno](https://suno.com/) | Full song generation |
-| [Udio](https://udio.com/) | Music generation alternative |
+| 【ElevenLabs】(https://elevenlabs.io/) | リアルティッツ&ボイスクローニング |
+| 【ハイパー】(https://github.com/openai/whisper) | OpenAIのオープンスピーチ |
+| 【サント】(https://suno.com/) | フルソング |
+| 【Udio】(https://udio.com/) | 楽曲代別 |
 
-## 🎬 Video
-| Tool | What it does |
+##ビデオ
+| ツール | お問い合わせ |
 |---|---|
-| [Sora](https://openai.com/sora) | OpenAI video generation |
-| [Runway](https://runwayml.com/) | Gen-3 video editing suite |
-| [Pika](https://pika.art/) | Accessible video gen |
-| [Luma Dream Machine](https://lumalabs.ai/) | Fast cinematic clips |
+| 【ソラ】(https://openai.com/sora) | OpenAI動画制作 |
+| 【滑走路】(https://runwayml.com/) | Gen-3動画編集スイート |
+| 【ピカ】(https://pika.art/) | アクセシブルな動画 gen |
+| 【Luma Dream Machine】(https://lumalabs.ai/) | ファーストシネマティッククリップ |
 
-## 🤖 Agents & Automation
-| Tool | What it does |
+## エージェント & オートメーション
+| ツール | お問い合わせ |
 |---|---|
-| [n8n](https://github.com/n8n-io/n8n) | Open-source workflow automation with AI nodes |
-| [Zapier AI](https://zapier.com/) | No-code automation + AI actions |
-| [LangChain](https://github.com/langchain-ai/langchain) | LLM application framework |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Multi-agent orchestration |
-| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | LLMs running code locally |
+|【n8n】(https://github.com/n8n-io/n8n) | AIノードを用いたオープンソースワークフローの自動化 |
+| 【Zapier AI】(https://zapier.com/) | ノーコード自動化+AIアクション |
+| [LangChain](https://github.com/langchain-ai/langchain) | LLMアプリケーションフレームワーク |
+| 【クルーアイ】(https://github.com/crewAIInc/crewAI) | マルチエージェントのオーケストレーション |
+| 【オープンインタープリター】(https://github.com/OpenInterpreter/open-interpreter) | LLMs ランニングコード ローカル |
 
-> Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch).
+> [aixisstudio](https://github.com/aixisstudio) - [Snitch](https://github.com/aixisstudio/Snitch)の著者によって維持される。
 
-## 🧑‍💻 Dev-facing AI (extras)
+## 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻 💻
 
-| Tool | What |
+| ツール | お問い合わせ
 |---|---|
-| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Natural-language computer control |
-| [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Prompt → whole codebase |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent that fixes real GitHub issues |
-| [Devin clones](https://github.com/stitionai/devika) | Open-source SWE agents (Devika, OpenDevin) |
+| 【オープン通訳者】(https://github.com/OpenInterpreter/open-interpreter) | 自然言語制御 |
+| [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) | プロンプト → 全コードベース |
+| 【SWE-agent】(https://github.com/SWE-agent/SWE-agent) | 実際のGitHub課題を解決するエージェント |
+| [Devin clones](https://github.com/stitionai/devika) | オープンソースSWEエージェント(Devika, OpenDevin) |
 
-## 🎙️ Audio/Voice (extras)
+## オーディオ/ボイス (extras)
 
-| Tool | What |
+| ツール | お問い合わせ
 |---|---|
-| [ElevenLabs](https://elevenlabs.io/) | Best-in-class TTS/voice clone |
-| [Whisper](https://github.com/openai/whisper) | OpenAI's transcription model |
-| [Suno](https://suno.com/) | Full songs from a prompt |
-| [Stable Audio](https://stability.ai/) | Sound effects/music gen |
+| 【ElevenLabs】(https://elevenlabs.io/) | ベスト・イン・クラスのTTS/ボイスクローン |
+|【ひさし】(https://github.com/openai/whisper) | OpenAIのトランスクリプションモデル |
+| 【サンオ】(https://suno.com/) | 正式な曲 |
+| 【Stable Audio】(https://stability.ai/) | 音響効果・音楽遺伝子 |
 
-## 🔬 Research & Knowledge (extras)
+## 🔬 研究と知識 (extras)
 
-| Tool | What |
+| ツール | お問い合わせ
 |---|---|
-| [Elicit](https://elicit.com/) | Literature-review automation |
-| [SciSpace](https://scispace.com/) | Chat with papers |
-| [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered academic search |
-| [Explainpaper](https://www.explainpaper.com/) | Highlights → explanations |
+| 【ライセンス】(https://elicit.com/) | 文献レビュー自動化 |
+| 【SciSpace】(https://scispace.com/) | 紙とのチャット |
+| 【Semantic Scholar】(https://www.semanticscholar.org/) | 人工知能による学術的検索 |
+| 【抜粋】(https://www.explainpaper.com/) | ハイライト | 説明 |
 
-## 🏗️ Infrastructure for AI products
+## ️️ AI製品のインフラ
 
-| Tool | What |
+| ツール | お問い合わせ
 |---|---|
-| [LangChain](https://github.com/langchain-ai/langchain) | LLM app framework |
-| [LlamaIndex](https://github.com/run-llama/llama_index) | Data framework for RAG |
-| [LiteLLM](https://github.com/BerriAI/litellm) | One API → all providers |
-| [vLLM](https://github.com/vllm-project/vllm) | High-throughput inference |
-| [Ollama](https://ollama.com/) | Local model runner |
+| [LangChain](https://github.com/langchain-ai/langchain) | LLMアプリ | フレームワーク |
+| 【LlamaIndex】(https://github.com/run-llama/llama_index) | RAGのデータフレームワーク |
+| 【LiteLLM】(https://github.com/BerriAI/litellm) | 1つのAPI → すべての提供者 |
+| [vLLM](https://github.com/vllm-project/vllm) | 高スループット推論 |
+| 【オラマ】(https://ollama.com/) | ローカルモデルランナー |
 
 ---
 ## 貢献

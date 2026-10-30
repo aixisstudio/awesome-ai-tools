@@ -4,100 +4,98 @@
 
 Lista curada de las mejores herramientas de IA
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
-
-## 💬 Chat & General
-| Tool | What it does |
+## 💬 Chat &gt; General
+← Herramienta permanente Lo que hace
 |---|---|
-| [ChatGPT](https://chat.openai.com/) | The reference chatbot — GPT-4o, voice, vision |
-| [Claude](https://claude.ai/) | Long-context reasoning, artifacts, projects |
-| [Gemini](https://gemini.google.com/) | Google's multimodal assistant |
-| [Mistral Le Chat](https://chat.mistral.ai/) | Fast European open-weights assistant |
-| [Perplexity](https://www.perplexity.ai/) | Answer engine with live citations |
+[ChatGPT] (https://chat.openai.com/) El chatbot de referencia — GPT-4o, voz, visión
+Silencio [Claude] (https://claude.ai/)
+Silencio [Gemini] (https://gemini.google.com/)
+[Mistral Le Chat] (https://chat.mistral.ai/) ← Asistente europeo de pesos abiertos
+Silencio [Perplejidad] (https://www.perplexity.ai/)
 
-## 🖼️ Image
-| Tool | What it does |
+Imagen
+← Herramienta permanente Lo que hace
 |---|---|
-| [Midjourney](https://midjourney.com/) | Best-in-class aesthetic generation |
-| [Flux](https://blackforestlabs.ai/) | Open-weights image models (Black Forest Labs) |
-| [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | The open-weights classic |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based image pipelines |
-| [Leonardo.ai](https://leonardo.ai/) | Production-grade asset generation |
-| [Ideogram](https://ideogram.ai/) | Best text-in-image rendering |
+Silencio [Midjourney] (https://midjourney.com/)
+Silencio [Flux](https://blackforestlabs.ai/) Silencio Modelos de imagen de pesos abiertos (Black Forest Labs)
+[Stable Diffusion] (https://github.com/CompVis/stable-diffusion) El clásico de pesos abiertos
+Silencio [ComfyUI] (https://github.com/comfyanonymous/ComfyUI)
+Silencio [Leonardo.ai] (https://leonardo.ai/)
+[Ideograma] (https://ideogram.ai/)
 
 ## 💻 Code
-| Tool | What it does |
+← Herramienta permanente Lo que hace
 |---|---|
-| [Cursor](https://cursor.com/) | AI-first code editor |
-| [GitHub Copilot](https://github.com/features/copilot) | The original pair programmer |
-| [Windsurf](https://windsurf.com/) | Agentic IDE |
-| [Claude Code](https://claude.com/product/claude-code) | Terminal agent for real repos |
-| [Aider](https://github.com/Aider-AI/aider) | Open-source CLI pair programmer |
-| [Continue](https://github.com/continuedev/continue) | Open-source IDE copilot |
+Silencio [Cursor] (https://cursor.com/)
+[GitHub Copilot] (https://github.com/features/copilot) El programador de pares original
+[Windsurf] (https://windsurf.com/)
+Silencioso [Código de Claudio] (https://claude.com/product/claude-code)
+[Aider] (https://github.com/Aider-AI/aider)
+[Continúe] (https://github.com/continuedev/continue)
 
-## 🔊 Audio & Voice
-| Tool | What it does |
+## 🔊 Audio &amp; Voice
+← Herramienta permanente Lo que hace
 |---|---|
-| [ElevenLabs](https://elevenlabs.io/) | Realistic TTS & voice cloning |
-| [Whisper](https://github.com/openai/whisper) | OpenAI's open speech-to-text |
-| [Suno](https://suno.com/) | Full song generation |
-| [Udio](https://udio.com/) | Music generation alternative |
+Silencio [ElevenLabs] (https://elevenlabs.io/)
+Silencio [Whisper] (https://github.com/openai/whisper)
+Silencio [Suno] (https://suno.com/)
+Silencio [Udio] (https://udio.com/)
 
-## 🎬 Video
-| Tool | What it does |
+## ⋅ Video
+← Herramienta permanente Lo que hace
 |---|---|
-| [Sora](https://openai.com/sora) | OpenAI video generation |
-| [Runway](https://runwayml.com/) | Gen-3 video editing suite |
-| [Pika](https://pika.art/) | Accessible video gen |
-| [Luma Dream Machine](https://lumalabs.ai/) | Fast cinematic clips |
+Silencio [Sora] (https://openai.com/sora)
+Silencio [Runway] (https://runwayml.com/)
+Silencio [Pika] (https://pika.art/)
+Silencio [Luma Dream Machine] (https://lumalabs.ai/)
 
-## 🤖 Agents & Automation
-| Tool | What it does |
+## 🤖 Agents &amp; Automation
+← Herramienta permanente Lo que hace
 |---|---|
-| [n8n](https://github.com/n8n-io/n8n) | Open-source workflow automation with AI nodes |
-| [Zapier AI](https://zapier.com/) | No-code automation + AI actions |
-| [LangChain](https://github.com/langchain-ai/langchain) | LLM application framework |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Multi-agent orchestration |
-| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | LLMs running code locally |
+Silencio [n8n] (https://github.com/n8n-io/n8n)
+Silencio [Zapier AI] (https://zapier.com/)
+Silencio [LangChain] (https://github.com/langchain-ai/langchain)
+Silencio [CrewAI] (https://github.com/crewAIInc/crewAI)
+Silencio [Open Interpreter] (https://github.com/OpenInterpreter/open-interpreter)
 
-> Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch).
+(https://github.com/aixisstudio) — autor de [Snitch] (https://github.com/aixisstudio/Snitch).
 
-## 🧑‍💻 Dev-facing AI (extras)
+## 🧑 💻 Dev-facing AI (extras)
 
-| Tool | What |
+← Herramienta permanente ¿Qué pasa?
 |---|---|
-| [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Natural-language computer control |
-| [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Prompt → whole codebase |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent that fixes real GitHub issues |
-| [Devin clones](https://github.com/stitionai/devika) | Open-source SWE agents (Devika, OpenDevin) |
+[Open Interpreter] (https://github.com/OpenInterpreter/open-interpreter)
+Silencio [gpt-engineer] (https://github.com/gpt-engineer-org/gpt-engineer)
+Silencio [SWE-agent] (https://github.com/SWE-agent/SWE-agent)
+[Devin clones] (https://github.com/stitionai/devika) Silencio Agentes SWE de código abierto (Devika, OpenDevin)
 
-## 🎙️ Audio/Voice (extras)
+Audio/Voice (extras)
 
-| Tool | What |
+← Herramienta permanente ¿Qué pasa?
 |---|---|
-| [ElevenLabs](https://elevenlabs.io/) | Best-in-class TTS/voice clone |
-| [Whisper](https://github.com/openai/whisper) | OpenAI's transcription model |
-| [Suno](https://suno.com/) | Full songs from a prompt |
-| [Stable Audio](https://stability.ai/) | Sound effects/music gen |
+Silencio [ElevenLabs] (https://elevenlabs.io/)
+[Whisper] (https://github.com/openai/whisper)
+Silencio [Suno] (https://suno.com/) Silencio Canciones completas de un rápido Silencio
+confidencialidad [Stable Audio] (https://stability.ai/)
 
-## 🔬 Research & Knowledge (extras)
+## 🔬 Investigación &quot; Conocimiento (extras)
 
-| Tool | What |
+← Herramienta permanente ¿Qué pasa?
 |---|---|
-| [Elicit](https://elicit.com/) | Literature-review automation |
-| [SciSpace](https://scispace.com/) | Chat with papers |
-| [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered academic search |
-| [Explainpaper](https://www.explainpaper.com/) | Highlights → explanations |
+[Elicit] (https://elicit.com/)
+[SciSpace] (https://scispace.com/)
+Silencio [Semántica Scholar] (https://www.semanticscholar.org/)
+Silencio [Explainpaper](https://www.explainpaper.com/)
 
-## 🏗️ Infrastructure for AI products
+Infraestructura para productos AI
 
-| Tool | What |
+← Herramienta permanente ¿Qué pasa?
 |---|---|
-| [LangChain](https://github.com/langchain-ai/langchain) | LLM app framework |
-| [LlamaIndex](https://github.com/run-llama/llama_index) | Data framework for RAG |
-| [LiteLLM](https://github.com/BerriAI/litellm) | One API → all providers |
-| [vLLM](https://github.com/vllm-project/vllm) | High-throughput inference |
-| [Ollama](https://ollama.com/) | Local model runner |
+Silencio [LangChain] (https://github.com/langchain-ai/langchain)
+Silencio [LlamaIndex] (https://github.com/run-llama/llama_index)
+Silencio [LiteLLM] (https://github.com/BerriAI/litellm) ← Una API → todos los proveedores
+Silencio [vLLM] (https://github.com/vllm-project/vllm)
+[Ollama] (https://ollama.com/)
 
 ---
 ## Contribuir

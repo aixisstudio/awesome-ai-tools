@@ -64,6 +64,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 
 | Tool | What |
 |---|---|
+| [agent-qa](https://vostride.com) | Web/mobile QA through CLI/MCP, with persistent memidex memory, validated self-improvement and reviewable evidence |
 | [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Natural-language computer control |
 | [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Prompt → whole codebase |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Agent that fixes real GitHub issues |

@@ -86,6 +86,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [SciSpace](https://scispace.com/) | Chat with papers |
 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered academic search |
 | [Explainpaper](https://www.explainpaper.com/) | Highlights → explanations |
+| [MeetNewAI](https://meetnewai.com/) | Free directory to discover new AI tools, games, and MCP servers |
 
 ## 🏗️ Infrastructure for AI products
 

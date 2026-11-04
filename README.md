@@ -48,6 +48,8 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [Runway](https://runwayml.com/) | Gen-3 video editing suite |
 | [Pika](https://pika.art/) | Accessible video gen |
 | [Luma Dream Machine](https://lumalabs.ai/) | Fast cinematic clips |
+| [Cyanvid](https://cyanvid.com/?utm_source=github-aixisstudio-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) | Multi-model AI video generator (text/image to video) |
+| [Barz Studio](https://barzvideo.com/?utm_source=github-aixisstudio-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) | Free browser rap lyric video maker (bring your own track) |
 
 ## 🤖 Agents & Automation
 | Tool | What it does |

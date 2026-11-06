@@ -82,10 +82,11 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 
 | Tool | What |
 |---|---|
+| [DisconfirmAI](https://disconfirmai.com/en) | Investment research: find disconfirming evidence before conviction |
 | [Elicit](https://elicit.com/) | Literature-review automation |
+| [Explainpaper](https://www.explainpaper.com/) | Highlights → explanations |
 | [SciSpace](https://scispace.com/) | Chat with papers |
 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered academic search |
-| [Explainpaper](https://www.explainpaper.com/) | Highlights → explanations |
 
 ## 🏗️ Infrastructure for AI products
 

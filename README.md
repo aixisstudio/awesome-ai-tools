@@ -12,6 +12,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [Gemini](https://gemini.google.com/) | Google's multimodal assistant |
 | [Mistral Le Chat](https://chat.mistral.ai/) | Fast European open-weights assistant |
 | [Perplexity](https://www.perplexity.ai/) | Answer engine with live citations |
+| [Sammi: AI Girlfriend](https://sammiai.app/) | Android fictional character text/voice chat, customization and creative roleplay |
 
 ## 🖼️ Image
 | Tool | What it does |

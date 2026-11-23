@@ -12,6 +12,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [Gemini](https://gemini.google.com/) | Google's multimodal assistant |
 | [Mistral Le Chat](https://chat.mistral.ai/) | Fast European open-weights assistant |
 | [Perplexity](https://www.perplexity.ai/) | Answer engine with live citations |
+| [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) | Free Chrome extension for ChatGPT with timed reply continuation, per-tab controls, countdown, and long-chat context handoff; not a standalone AI model |
 
 ## 🖼️ Image
 | Tool | What it does |

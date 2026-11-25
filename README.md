@@ -58,7 +58,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Multi-agent orchestration |
 | [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | LLMs running code locally |
 
-> Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch).
+> Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Wiretap](https://github.com/aixisstudio/Wiretap).
 
 ## 🧑‍💻 Dev-facing AI (extras)
 
@@ -98,7 +98,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [Ollama](https://ollama.com/) | Local model runner |
 
 ---
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall.
+Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Wiretap](https://github.com/aixisstudio/Wiretap), the open-source application firewall.
 
 ## License
 

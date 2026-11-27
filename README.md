@@ -96,6 +96,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [LiteLLM](https://github.com/BerriAI/litellm) | One API → all providers |
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput inference |
 | [Ollama](https://ollama.com/) | Local model runner |
+| [Sandscale](https://sandscale.dev/) | Firecracker microVM sandboxes for AI coding agents |
 
 ---
 Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Wiretap](https://github.com/aixisstudio/Wiretap), the open-source application firewall.

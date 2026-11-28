@@ -22,6 +22,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based image pipelines |
 | [Leonardo.ai](https://leonardo.ai/) | Production-grade asset generation |
 | [Ideogram](https://ideogram.ai/) | Best text-in-image rendering |
+| [Seedream 5.5](https://seedream55.io) | Fast text-to-image with 2K/4K output in-browser |
 
 ## 💻 Code
 | Tool | What it does |
@@ -48,6 +49,7 @@ A curated list of the best AI tools — chatbots, image, code, audio, agents
 | [Runway](https://runwayml.com/) | Gen-3 video editing suite |
 | [Pika](https://pika.art/) | Accessible video gen |
 | [Luma Dream Machine](https://lumalabs.ai/) | Fast cinematic clips |
+| [H3 Video Generator](https://h3minimax.com) | Browser-based AI video generation from text or images |
 
 ## 🤖 Agents & Automation
 | Tool | What it does |
